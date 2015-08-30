@@ -15,7 +15,9 @@ style="background-color:#FFF">
 </canvas>
 <script src="js/termome.js"></script>
 
-Is pretty easy, you can use it as model to create your own figures in canvas. 
+If you change the size, keep relation 1x4 between width and height. But we recommend at least 50x200 px to see all details.
+
+Is pretty easy, you can use it as a sample to create your own figures in canvas. 
 
 Good luck !
 Jorge Girbau
