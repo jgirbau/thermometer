@@ -13,6 +13,8 @@ If you change the size, keep relation 1x4 between width and height. But we recom
 
 Is pretty easy, you can use it as a sample to create your own figures in canvas. 
 
+(Note: the issue in the name of script is now fixed)
+
 Good luck !
 Jorge Girbau
 
