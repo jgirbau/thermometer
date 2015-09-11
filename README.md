@@ -11,6 +11,8 @@ after you paste it in your web page.
 
 If you change the size, keep relation 1x4 between width and height. But we recommend at least 50x200 px to see all details.
 
+Demo page at: [Demo](https://jgirbau.github.io/thermometer/)
+
 Is pretty easy, you can use it as a sample to create your own figures in canvas. 
 
 (Note: the issue in the name of script is now fixed)
